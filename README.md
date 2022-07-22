@@ -2,7 +2,7 @@ Sou Bruno desenvolvedor web, gosto de usar a criatividade para criar soluções 
 
 Busco uma oportunidade de migração na área de tecnologia, buscando aliar meus conhecimentos, habilidades técnicas e pessoais adquiridas ao longo da minha jornada de estudo e desenvolvimento. Tenho por objetivo atuar com desenvolvimento web.
 
-Algumas habilidades: React, JavaScript, Css, Html.
+Algumas habilidades: React.js,Typescript, JavaScript, Css,Sass, Html5.
 
 Sempre em crescimento constante, muito curioso e sempre disposto a aprender e melhorar minhas habilidades.
 
